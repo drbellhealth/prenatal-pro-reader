@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drbellhealth.github.io/prenatal-pro-reader/sitemap.xml
